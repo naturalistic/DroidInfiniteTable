@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroidInfiniteTable", "DroidInfiniteTable\DroidInfiniteTable.csproj", "{FEAFC342-4715-4FDA-B035-45A3D713A054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroidInfiniteTable.UITests", "DroidInfiniteTable.UITests\DroidInfiniteTable.UITests.csproj", "{399B4D4E-8D46-41A7-9ED2-97BEAF3084A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399B4D4E-8D46-41A7-9ED2-97BEAF3084A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399B4D4E-8D46-41A7-9ED2-97BEAF3084A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399B4D4E-8D46-41A7-9ED2-97BEAF3084A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399B4D4E-8D46-41A7-9ED2-97BEAF3084A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAFC342-4715-4FDA-B035-45A3D713A054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAFC342-4715-4FDA-B035-45A3D713A054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAFC342-4715-4FDA-B035-45A3D713A054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAFC342-4715-4FDA-B035-45A3D713A054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
